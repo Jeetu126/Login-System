@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url('/assets/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: lightcyan;
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.container{
+    background-color: lightskyblue;
+}
+
+.btn.btn-success{
+    padding: 0.4em 2em;
+    margin-top: 10%;
+}
+form {
+    padding: 0.3em;
+}
+
+#login .title>span{
+    font-size: 0.8em;
+}
+
